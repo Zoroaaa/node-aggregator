@@ -2,6 +2,8 @@
 
 多协议代理节点聚合器，部署在 Cloudflare Workers，支持生成 Base64 / Clash / Sing-box 订阅。
 
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/84de4fab-4649-4e48-9a61-fda53c541553" />
+
 ## 支持协议
 
 - VLESS (TCP/WS/gRPC + TLS/REALITY)
